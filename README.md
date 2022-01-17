@@ -15,14 +15,14 @@ the Stern-Brocot number system.
 
 ### Sample Input :
 
-5 7
-878 323
-1 1
+5 7\
+878 323\
+1 1\
 
 ### Sample Output :
 
-LRRL
-RRLRRLRLLLLRLRRR
+LRRL\
+RRLRRLRLLLLRLRRR\
 
 ##### Created by :
 
