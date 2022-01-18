@@ -17,12 +17,12 @@ the Stern-Brocot number system.
 
 5 7\
 878 323\
-1 1\
+1 1
 
 ### Sample Output :
 
 LRRL\
-RRLRRLRLLLLRLRRR\
+RRLRRLRLLLLRLRRR
 
 ##### Created by :
 
